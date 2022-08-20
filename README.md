@@ -1,9 +1,5 @@
 # intro-git
 
-# Description
-
-Este es nuestro primer proyecto en gitHub
-
 # Git commnand
 
 <ul>
@@ -16,5 +12,7 @@ Este es nuestro primer proyecto en gitHub
 
 # Extensions
 
-Fig -> Autocompletar (mac o linux)
-oh-my-zsh -> mac o linux
+<ul>
+  <li>Fig -> Autocompletar (mac o linux)</li>
+  <li>oh-my-zsh -> mac o linux</li>
+</ul>
