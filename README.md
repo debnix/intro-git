@@ -1,6 +1,6 @@
 # intro-git
 
-# Git commnand
+# Git basics commnand
 
 <ul>
   <li>git init</li>
