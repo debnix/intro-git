@@ -11,7 +11,7 @@
 - <strong>git branch</strong> (consultar ramas del proyecto y en cual estamos ubicados)
 - <strong>git branch nombre-rama</strong> (crear rama)
 - <strong>git checkout nombre-rama</strong> (cambiar de rama)
-- <strong></strong> ()
+- <strong>git merge nombre-rama</strong> (unir ramas)
 - <strong></strong> ()
 - <strong></strong> ()
 - <strong></strong> ()
