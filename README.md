@@ -8,8 +8,13 @@
 - <strong>git log</strong> (Consultar los commits)
 - <strong>git push origin rama</strong> Subir los commits al repositorio)
 - <strong>git status</strong> (consultar cambios en el proyecto)
-- <strong></strong>
-- <strong></strong>
+- <strong>git branch</strong> (consultar ramas del proyecto y en cual estamos ubicados)
+- <strong>git branch nombre-rama</strong> (crear rama)
+- <strong>git checkout nombre-rama</strong> (cambiar de rama)
+- <strong></strong> ()
+- <strong></strong> ()
+- <strong></strong> ()
+- <strong></strong> ()
 
 # Tools
 
