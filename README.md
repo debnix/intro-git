@@ -12,8 +12,9 @@
 - <strong>git branch nombre-rama</strong> (crear rama)
 - <strong>git checkout nombre-rama</strong> (cambiar de rama)
 - <strong>git merge nombre-rama</strong> (unir ramas)
-- <strong></strong> ()
-- <strong></strong> ()
+- <strong>git log --oneline</strong> (consultar los commits con un resumen de su id y ramas del proyecto)
+- <strong>git reset --hard <i>id-commit</i></strong> (devolverse a un commit y eliminar el actual)
+- <strong>git revert commit <i>id-commit</i></strong> (devolverse a un commit sin eliminar el actual)
 - <strong></strong> ()
 
 # Tools
