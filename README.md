@@ -1,6 +1,6 @@
 # intro-git
 
-# Git commnand
+# Git basics commnand
 
 - <strong>git init</strong> (adicionar el proyecto al control de versiones de código git)
 - <strong>git add .</strong> or <strong>git add nombre-archivo</strong> (añadir archivos al stage area)
